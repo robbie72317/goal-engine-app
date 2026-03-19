@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-03-18",
+    "league": "ITA2",
+    "time": "18:00",
+    "stars": 3,
+    "home": "Frosinone",
+    "away": "Bari",
+    "picks": ["Over 2.5", "Over 1.5", "Home"],
+    "score": 5,
+    "stats": {
+      "INT": 20.2,
+      "Shots": 43.1,
+      "Scale": 7.7,
+      "Dom": 11.06
+    },
+    "result": "",
+    "ht": ""
+  },
+  {
+    "date": "2026-03-18",
+    "league": "CHAMPIONS",
+    "time": "20:00",
+    "stars": 2,
+    "home": "Bayern",
+    "away": "Atalanta",
+    "picks": ["Over 2.5", "Home"],
+    "score": 4,
+    "stats": {
+      "INT": 19,
+      "Shots": 37.9,
+      "Scale": 7.0,
+      "Dom": 6.88
+    },
+    "result": "",
+    "ht": ""
+  }
+]
