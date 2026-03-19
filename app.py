@@ -48,9 +48,17 @@ with col3:
 if stars_choice:
     matches_filtered = [m for m in matches_day if m["stars"] == stars_choice]
 
-    for m in matches_filtered:
-        if st.button(f'{m["home"]} vs {m["away"]} | {m["time"]}'):
-            st.session_state["selected_match"] = m
+    if matches_filtered:
+        match_labels = [
+            f'{m["home"]} vs {m["away"]} | {m["time"]}'
+            for m in matches_filtered
+        ]
+
+        selected_label = st.selectbox("Seleziona match", match_labels)
+
+        selected_match = matches_filtered[match_labels.index(selected_label)]
+
+        st.session_state["selected_match"] = selected_match
 
 # --- DETTAGLIO MATCH ---
 if "selected_match" in st.session_state:
