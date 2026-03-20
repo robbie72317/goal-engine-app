@@ -1,500 +1,2152 @@
-[
-  {
-    "date": "2026-03-19",
-    "league": "EURLEAGUE",
-    "time": "17:45",
-    "stars": 1,
-    "home": "Lyon",
-    "away": "Celta Vigo",
-    "picks": [
-      "Over 1.5"
-    ],
-    "score": 1,
-    "stats": {
-      "INT": 14.6,
-      "Shots": 30.8,
-      "Scale": 4.7,
-      "Dom": 3.62
+{
+  "date": "2026-03-21",
+  "matches": [
+    {
+      "date": "2026-03-21",
+      "league": "ITA1",
+      "time": "14:00",
+      "stars": 3,
+      "home": "Parma",
+      "away": "Cremonese",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 18.1,
+        "INTw": 23.6,
+        "Combo": 54.6,
+        "Shots": 36.6,
+        "Scale": 7.0,
+        "Dom": -6.19
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "EURLEAGUE",
-    "time": "17:45",
-    "stars": 2,
-    "home": "FC Midtjylland",
-    "away": "Nottingham Forest",
-    "picks": [
-      "Away",
-      "Over 1.5"
-    ],
-    "score": 1,
-    "stats": {
-      "INT": 14.4,
-      "Shots": 31,
-      "Scale": 4.6,
-      "Dom": -9.25
+    {
+      "date": "2026-03-21",
+      "league": "ITA1",
+      "time": "19:45",
+      "stars": 3,
+      "home": "Juventus",
+      "away": "Sassuolo",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.7,
+        "INTw": 24.1,
+        "Combo": 55.6,
+        "Shots": 36.9,
+        "Scale": 6.9,
+        "Dom": 3.88
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "EURLEAGUE",
-    "time": "17:45",
-    "stars": 2,
-    "home": "SC Freiburg",
-    "away": "Genk",
-    "picks": [
-      "Over 2.5",
-      "Over 1.5"
-    ],
-    "score": 3,
-    "stats": {
-      "INT": 16.1,
-      "Shots": 34.8,
-      "Scale": 6.1,
-      "Dom": 3.0
+    {
+      "date": "2026-03-21",
+      "league": "ITA2",
+      "time": "14:00",
+      "stars": 2,
+      "home": "Padova",
+      "away": "Palermo",
+      "picks": [
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 5,
+      "stats": {
+        "INT": 16.1,
+        "INTw": 21.9,
+        "Combo": 51.8,
+        "Shots": 35.7,
+        "Scale": 6.3,
+        "Dom": -1.19
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "EURLEAGUE",
-    "time": "20:00",
-    "stars": 1,
-    "home": "Aston Villa",
-    "away": "Lille",
-    "picks": [
-      "Over 1.5",
-      "Home"
-    ],
-    "score": 1,
-    "stats": {
-      "INT": 14.3,
-      "Shots": 28.3,
-      "Scale": 4.2,
-      "Dom": 5.81
+    {
+      "date": "2026-03-21",
+      "league": "ITA2",
+      "time": "14:00",
+      "stars": 3,
+      "home": "Cesena",
+      "away": "Catanzaro",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.4,
+        "INTw": 24.5,
+        "Combo": 57.3,
+        "Shots": 38.9,
+        "Scale": 7.3,
+        "Dom": 1.19
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "EURLEAGUE",
-    "time": "20:00",
-    "stars": 1,
-    "home": "AS Roma",
-    "away": "Bologna",
-    "picks": [
-      "Over 1.5"
-    ],
-    "score": 1,
-    "stats": {
-      "INT": 14.8,
-      "Shots": 28.6,
-      "Scale": 4.4,
-      "Dom": 0.44
+    {
+      "date": "2026-03-21",
+      "league": "ITA2",
+      "time": "14:00",
+      "stars": 2,
+      "home": "Juve Stabia",
+      "away": "Spezia",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.4,
+        "INTw": 21.7,
+        "Combo": 50.6,
+        "Shots": 34.2,
+        "Scale": 6.1,
+        "Dom": -4.5
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "EURLEAGUE",
-    "time": "20:00",
-    "stars": 2,
-    "home": "FC Porto",
-    "away": "VfB Stuttgart",
-    "picks": [
-      "Away",
-      "Over 1.5"
-    ],
-    "score": 2,
-    "stats": {
-      "INT": 15.5,
-      "Shots": 34.4,
-      "Scale": 5.6,
-      "Dom": -7.5
+    {
+      "date": "2026-03-21",
+      "league": "ITA2",
+      "time": "16:15",
+      "stars": 3,
+      "home": "Monza",
+      "away": "Venezia",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 16.6,
+        "INTw": 22.5,
+        "Combo": 52.9,
+        "Shots": 36.2,
+        "Scale": 6.2,
+        "Dom": -6.62
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "EURLEAGUE",
-    "time": "20:00",
-    "stars": 1,
-    "home": "Real Betis",
-    "away": "Panathinaikos",
-    "picks": [
-      "Over 1.5"
-    ],
-    "score": 1,
-    "stats": {
-      "INT": 14.9,
-      "Shots": 31.7,
-      "Scale": 4.8,
-      "Dom": 0.44
+    {
+      "date": "2026-03-21",
+      "league": "ITA2",
+      "time": "18:30",
+      "stars": 1,
+      "home": "Modena",
+      "away": "Mantova",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 14.8,
+        "INTw": 20.1,
+        "Combo": 47.1,
+        "Shots": 32.3,
+        "Scale": 5.3,
+        "Dom": -1.06
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "CONF",
-    "time": "17:45",
-    "stars": 3,
-    "home": "AEK Larnaca",
-    "away": "Crystal Palace",
-    "picks": [
-      "Under",
-      "Away"
-    ],
-    "score": -5,
-    "stats": {
-      "INT": 10.4,
-      "Shots": 21.3,
-      "Scale": 3.0,
-      "Dom": -16.44
+    {
+      "date": "2026-03-21",
+      "league": "ENG1",
+      "time": "12:30",
+      "stars": 2,
+      "home": "Brighton",
+      "away": "Liverpool",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.6,
+        "INTw": 22.0,
+        "Combo": 51.2,
+        "Shots": 34.6,
+        "Scale": 6.1,
+        "Dom": -7.5
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "CONF",
-    "time": "17:45",
-    "stars": 3,
-    "home": "Rak\u00f3w Cz\u0119stochowa",
-    "away": "Fiorentina",
-    "picks": [
-      "Over 2.5",
-      "Over 1.5",
-      "Home"
-    ],
-    "score": 3,
-    "stats": {
-      "INT": 16.3,
-      "Shots": 35.5,
-      "Scale": 6.0,
-      "Dom": 6.38
+    {
+      "date": "2026-03-21",
+      "league": "ENG1",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Fulham",
+      "away": "Burnley",
+      "picks": [
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 5,
+      "stats": {
+        "INT": 17.8,
+        "INTw": 22.3,
+        "Combo": 50.6,
+        "Shots": 32.8,
+        "Scale": 6.3,
+        "Dom": 0.0
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "CONF",
-    "time": "17:45",
-    "stars": 3,
-    "home": "AEK Athens FC",
-    "away": "Celje",
-    "picks": [
-      "Under",
-      "Home"
-    ],
-    "score": -4,
-    "stats": {
-      "INT": 11.3,
-      "Shots": 24.1,
-      "Scale": 3.0,
-      "Dom": 15.44
+    {
+      "date": "2026-03-21",
+      "league": "ENG1",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Manchester City",
+      "away": "Crystal Palace",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 17.4,
+        "INTw": 22.3,
+        "Combo": 51.1,
+        "Shots": 33.8,
+        "Scale": 6.2,
+        "Dom": 9.88
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "CONF",
-    "time": "17:45",
-    "stars": 1,
-    "home": "FSV Mainz 05",
-    "away": "Sigma Olomouc",
-    "picks": [
-      "Over 1.5"
-    ],
-    "score": 1,
-    "stats": {
-      "INT": 16.6,
-      "Shots": 31.6,
-      "Scale": 5.4,
-      "Dom": 3.25
+    {
+      "date": "2026-03-21",
+      "league": "ENG1",
+      "time": "17:30",
+      "stars": 1,
+      "home": "Everton",
+      "away": "Chelsea",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 15.5,
+        "INTw": 20.8,
+        "Combo": 48.6,
+        "Shots": 33.1,
+        "Scale": 5.6,
+        "Dom": 0.5
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "CONF",
-    "time": "20:00",
-    "stars": 2,
-    "home": "Sparta Praha",
-    "away": "AZ Alkmaar",
-    "picks": [
-      "Over 2.5",
-      "Over 1.5"
-    ],
-    "score": 3,
-    "stats": {
-      "INT": 17.4,
-      "Shots": 34,
-      "Scale": 6.0,
-      "Dom": 3.62
+    {
+      "date": "2026-03-21",
+      "league": "ENG1",
+      "time": "20:00",
+      "stars": 1,
+      "home": "Leeds",
+      "away": "Brentford",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 16.7,
+        "INTw": 21.1,
+        "Combo": 47.9,
+        "Shots": 31.2,
+        "Scale": 5.6,
+        "Dom": -1.25
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "CONF",
-    "time": "20:00",
-    "stars": 1,
-    "home": "Rayo Vallecano",
-    "away": "Samsunspor",
-    "picks": [
-      "Home"
-    ],
-    "score": -1,
-    "stats": {
-      "INT": 13.4,
-      "Shots": 30,
-      "Scale": 4.2,
-      "Dom": 7.12
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "12:30",
+      "stars": 2,
+      "home": "Ipswich",
+      "away": "Millwall",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.5,
+        "INTw": 21.4,
+        "Combo": 49.4,
+        "Shots": 32.9,
+        "Scale": 5.8,
+        "Dom": -3.56
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "CONF",
-    "time": "20:00",
-    "stars": 2,
-    "home": "Strasbourg",
-    "away": "HNK Rijeka",
-    "picks": [
-      "Over 1.5",
-      "Home"
-    ],
-    "score": 2,
-    "stats": {
-      "INT": 15.6,
-      "Shots": 32,
-      "Scale": 5.2,
-      "Dom": 7.38
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "12:30",
+      "stars": 2,
+      "home": "Derby",
+      "away": "Birmingham",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.2,
+        "INTw": 21.4,
+        "Combo": 49.5,
+        "Shots": 33.2,
+        "Scale": 5.7,
+        "Dom": 0.62
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "CONF",
-    "time": "20:00",
-    "stars": 3,
-    "home": "Shakhtar Donetsk",
-    "away": "Lech Poznan",
-    "picks": [
-      "Under",
-      "Away"
-    ],
-    "score": -7,
-    "stats": {
-      "INT": 8.4,
-      "Shots": 19.6,
-      "Scale": 3.0,
-      "Dom": -22.31
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "12:30",
+      "stars": 3,
+      "home": "Blackburn",
+      "away": "Middlesbrough",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 18,
+        "INTw": 23.0,
+        "Combo": 52.8,
+        "Shots": 34.8,
+        "Scale": 6.7,
+        "Dom": -6.81
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "BRA",
-    "time": "22:00",
-    "stars": 2,
-    "home": "Gremio",
-    "away": "Vitoria",
-    "picks": [
-      "Under",
-      "Draw"
-    ],
-    "score": -7,
-    "stats": {
-      "INT": 7.1,
-      "Shots": 15.9,
-      "Scale": 3.0,
-      "Dom": 1.38
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Charlton",
+      "away": "Norwich",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 15.8,
+        "INTw": 20.7,
+        "Combo": 47.9,
+        "Shots": 32.1,
+        "Scale": 5.4,
+        "Dom": -4.5
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "BRA",
-    "time": "23:00",
-    "stars": 3,
-    "home": "Flamengo",
-    "away": "remo",
-    "picks": [
-      "Under",
-      "Home"
-    ],
-    "score": -7,
-    "stats": {
-      "INT": 8.8,
-      "Shots": 19.8,
-      "Scale": 3.0,
-      "Dom": 14.31
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Southampton",
+      "away": "Oxford United",
+      "picks": [
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 5,
+      "stats": {
+        "INT": 15.8,
+        "INTw": 21.3,
+        "Combo": 50.0,
+        "Shots": 34.2,
+        "Scale": 6.2,
+        "Dom": 3.31
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-20",
-    "league": "BRA",
-    "time": "00:30",
-    "stars": 3,
-    "home": "Chapecoense-sc",
-    "away": "Corinthians",
-    "picks": [
-      "Under",
-      "Away"
-    ],
-    "score": -5,
-    "stats": {
-      "INT": 8.2,
-      "Shots": 20.3,
-      "Scale": 3.0,
-      "Dom": -12.31
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Watford",
+      "away": "Leicester",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 15.6,
+        "INTw": 20.9,
+        "Combo": 48.8,
+        "Shots": 33.2,
+        "Scale": 5.8,
+        "Dom": -1.06
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-20",
-    "league": "CINA",
-    "time": "11:00",
-    "stars": 2,
-    "home": "Dalian Zhixing",
-    "away": "SHANGHAI SIPG",
-    "picks": [
-      "Under",
-      "Draw"
-    ],
-    "score": -2,
-    "stats": {
-      "INT": 13.5,
-      "Shots": 27.3,
-      "Scale": 3.9,
-      "Dom": -1.19
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Hull City",
+      "away": "Sheffield Wednesday",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.7,
+        "INTw": 21.7,
+        "Combo": 49.9,
+        "Shots": 33.2,
+        "Scale": 6.0,
+        "Dom": 3.12
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-20",
-    "league": "CINA",
-    "time": "11:35",
-    "stars": 2,
-    "home": "Qingdao Jonoon",
-    "away": "Hangzhou Greentown",
-    "picks": [
-      "Over 1.5",
-      "Home"
-    ],
-    "score": 2,
-    "stats": {
-      "INT": 15.3,
-      "Shots": 34.9,
-      "Scale": 5.5,
-      "Dom": 9.75
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "15:00",
+      "stars": 2,
+      "home": "QPR",
+      "away": "Portsmouth",
+      "picks": [
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 5,
+      "stats": {
+        "INT": 17.6,
+        "INTw": 22.5,
+        "Combo": 51.4,
+        "Shots": 33.9,
+        "Scale": 6.4,
+        "Dom": 0.0
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "TURK1",
-    "time": "13:00",
-    "stars": 1,
-    "home": "Kayserispor",
-    "away": "Fatih Karag\u00fcmr\u00fck",
-    "picks": [
-      "Home"
-    ],
-    "score": -1,
-    "stats": {
-      "INT": 13.8,
-      "Shots": 30.2,
-      "Scale": 4.6,
-      "Dom": 13.06
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Bristol City",
+      "away": "West Brom",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 15.4,
+        "INTw": 20.6,
+        "Combo": 48.0,
+        "Shots": 32.6,
+        "Scale": 5.5,
+        "Dom": -1.5
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "TURK1",
-    "time": "17:00",
-    "stars": 1,
-    "home": "Be\u015fikta\u015f",
-    "away": "Kas\u0131mpa\u015fa",
-    "picks": [
-      "Under"
-    ],
-    "score": -4,
-    "stats": {
-      "INT": 12.2,
-      "Shots": 26.9,
-      "Scale": 3.0,
-      "Dom": 1.62
+    {
+      "date": "2026-03-21",
+      "league": "ENG2",
+      "time": "17:15",
+      "stars": 2,
+      "home": "Swansea",
+      "away": "Coventry",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.2,
+        "INTw": 21.3,
+        "Combo": 49.4,
+        "Shots": 33.1,
+        "Scale": 5.7,
+        "Dom": -8.38
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-19",
-    "league": "TURK1",
-    "time": "17:00",
-    "stars": 2,
-    "home": "Konyaspor",
-    "away": "Gen\u00e7lerbirli\u011fi S.K.",
-    "picks": [
-      "Under",
-      "Away"
-    ],
-    "score": -4,
-    "stats": {
-      "INT": 11.6,
-      "Shots": 23.8,
-      "Scale": 3.2,
-      "Dom": -5.56
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "12:30",
+      "stars": 1,
+      "home": "Luton",
+      "away": "Stockport County",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 15.5,
+        "INTw": 20.5,
+        "Combo": 47.6,
+        "Shots": 32.1,
+        "Scale": 5.1,
+        "Dom": 1.56
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  },
-  {
-    "date": "2026-03-20",
-    "league": "AUSTR",
-    "time": "08:35",
-    "stars": 2,
-    "home": "Western Sydney Wanderers",
-    "away": "Adelaide United",
-    "picks": [
-      "Over 2.5",
-      "Over 1.5"
-    ],
-    "score": 4,
-    "stats": {
-      "INT": 19.4,
-      "Shots": 41.6,
-      "Scale": 7.4,
-      "Dom": 0.06
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "12:30",
+      "stars": 2,
+      "home": "Cardiff",
+      "away": "Blackpool",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 17.3,
+        "INTw": 22.4,
+        "Combo": 51.8,
+        "Shots": 34.4,
+        "Scale": 6.6,
+        "Dom": 6.81
+      },
+      "result": "",
+      "ht": ""
     },
-    "result": "",
-    "ht": ""
-  }
-]
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "15:00",
+      "stars": 3,
+      "home": "AFC Wimbledon",
+      "away": "Peterborough",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.2,
+        "INTw": 23.6,
+        "Combo": 54.6,
+        "Shots": 36.4,
+        "Scale": 7.0,
+        "Dom": -3.88
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Barnsley",
+      "away": "Doncaster",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.7,
+        "INTw": 21.5,
+        "Combo": 49.3,
+        "Shots": 32.6,
+        "Scale": 5.8,
+        "Dom": 1.38
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "15:00",
+      "stars": 3,
+      "home": "Leyton Orient",
+      "away": "Wycombe",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.1,
+        "INTw": 23.2,
+        "Combo": 53.2,
+        "Shots": 35.1,
+        "Scale": 6.4,
+        "Dom": 1.5
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Lincoln",
+      "away": "Rotherham",
+      "picks": [
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 5,
+      "stats": {
+        "INT": 16.6,
+        "INTw": 21.7,
+        "Combo": 50.1,
+        "Shots": 33.6,
+        "Scale": 5.9,
+        "Dom": 2.31
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Mansfield Town",
+      "away": "Northampton",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 16.8,
+        "INTw": 21.2,
+        "Combo": 48.4,
+        "Shots": 31.7,
+        "Scale": 5.8,
+        "Dom": 4.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Plymouth",
+      "away": "Huddersfield",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 15.8,
+        "INTw": 20.9,
+        "Combo": 48.7,
+        "Shots": 32.9,
+        "Scale": 5.5,
+        "Dom": 9.31
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "15:00",
+      "stars": 3,
+      "home": "Port Vale",
+      "away": "Bolton",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 10,
+      "stats": {
+        "INT": 20,
+        "INTw": 25.4,
+        "Combo": 58,
+        "Shots": 38,
+        "Scale": 7.6,
+        "Dom": -11.38
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG3",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Wigan",
+      "away": "Exeter City",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.6,
+        "INTw": 21.4,
+        "Combo": 49.1,
+        "Shots": 32.4,
+        "Scale": 5.8,
+        "Dom": -9.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG4",
+      "time": "15:00",
+      "stars": 3,
+      "home": "Accrington ST",
+      "away": "Chesterfield",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 17.7,
+        "INTw": 22.8,
+        "Combo": 52.5,
+        "Shots": 34.8,
+        "Scale": 6.5,
+        "Dom": -3.06
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG4",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Bromley",
+      "away": "Colchester",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 16.8,
+        "INTw": 21.2,
+        "Combo": 48.2,
+        "Shots": 31.5,
+        "Scale": 5.6,
+        "Dom": 3.38
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG4",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Fleetwood Town",
+      "away": "Crawley Town",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 16.6,
+        "INTw": 21.1,
+        "Combo": 48.2,
+        "Shots": 31.6,
+        "Scale": 5.8,
+        "Dom": -7.12
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG4",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Notts County",
+      "away": "Cheltenham",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 15.1,
+        "INTw": 20.3,
+        "Combo": 47.4,
+        "Shots": 32.2,
+        "Scale": 5.2,
+        "Dom": 1.38
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG4",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Oldham",
+      "away": "Harrogate Town",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.2,
+        "INTw": 21.1,
+        "Combo": 48.9,
+        "Shots": 32.7,
+        "Scale": 5.7,
+        "Dom": 0.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ENG4",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Shrewsbury",
+      "away": "Crewe",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 14.8,
+        "INTw": 20.2,
+        "Combo": 47.5,
+        "Shots": 32.7,
+        "Scale": 5.0,
+        "Dom": -1.69
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER1",
+      "time": "14:30",
+      "stars": 3,
+      "home": "Bayern M\u00fcnchen",
+      "away": "Union Berlin",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 18.2,
+        "INTw": 23.8,
+        "Combo": 54.9,
+        "Shots": 36.6,
+        "Scale": 6.6,
+        "Dom": 9.5
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER1",
+      "time": "14:30",
+      "stars": 2,
+      "home": "1. FC K\u00f6ln",
+      "away": "Borussia M\u00f6nchengladbach",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 17.2,
+        "INTw": 22.1,
+        "Combo": 50.9,
+        "Shots": 33.7,
+        "Scale": 5.9,
+        "Dom": 4.19
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER1",
+      "time": "14:30",
+      "stars": 2,
+      "home": "1. FC Heidenheim",
+      "away": "Bayer Leverkusen",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.6,
+        "INTw": 21.6,
+        "Combo": 49.8,
+        "Shots": 33.2,
+        "Scale": 5.7,
+        "Dom": 1.81
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER1",
+      "time": "14:30",
+      "stars": 3,
+      "home": "VfL Wolfsburg",
+      "away": "Werder Bremen",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.4,
+        "INTw": 23.6,
+        "Combo": 54.1,
+        "Shots": 35.6,
+        "Scale": 6.9,
+        "Dom": 3.5
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER1",
+      "time": "17:30",
+      "stars": 2,
+      "home": "Borussia Dortmund",
+      "away": "Hamburger SV",
+      "picks": [
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 5,
+      "stats": {
+        "INT": 18,
+        "INTw": 22.5,
+        "Combo": 51.1,
+        "Shots": 33.1,
+        "Scale": 6.3,
+        "Dom": 0.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER2",
+      "time": "12:00",
+      "stars": 2,
+      "home": "SV Elversberg",
+      "away": "Arminia Bielefeld",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.2,
+        "INTw": 21.2,
+        "Combo": 48.9,
+        "Shots": 32.7,
+        "Scale": 5.5,
+        "Dom": -11.19
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER2",
+      "time": "12:00",
+      "stars": 3,
+      "home": "1. FC N\u00fcrnberg",
+      "away": "1. FC Kaiserslautern",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 18.5,
+        "INTw": 23.6,
+        "Combo": 53.9,
+        "Shots": 35.4,
+        "Scale": 6.5,
+        "Dom": -5.81
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER2",
+      "time": "12:00",
+      "stars": 3,
+      "home": "SC Paderborn 07",
+      "away": "Dynamo Dresden",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.9,
+        "INTw": 24.5,
+        "Combo": 56.6,
+        "Shots": 37.7,
+        "Scale": 7.3,
+        "Dom": -1.31
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER2",
+      "time": "19:30",
+      "stars": 3,
+      "home": "SV Darmstadt 98",
+      "away": "FC Schalke 04",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 19,
+        "INTw": 24.7,
+        "Combo": 56.9,
+        "Shots": 37.9,
+        "Scale": 7.4,
+        "Dom": 0.94
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "GER3",
+      "time": "13:00",
+      "stars": 1,
+      "home": "SSV Jahn Regensburg",
+      "away": "Havelse",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 16.2,
+        "INTw": 21.0,
+        "Combo": 48.4,
+        "Shots": 32.2,
+        "Scale": 5.8,
+        "Dom": -4.19
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "BRA",
+      "time": "19:00",
+      "stars": 1,
+      "home": "RB Bragantino",
+      "away": "Botafogo",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 14.5,
+        "INTw": 19.8,
+        "Combo": 46.6,
+        "Shots": 32.1,
+        "Scale": 5.1,
+        "Dom": 5.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "CINA",
+      "time": "07:30",
+      "stars": 1,
+      "home": "Shenyang Urban",
+      "away": "Tianjin Teda",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 7.5,
+        "INTw": 10.2,
+        "Combo": 24.1,
+        "Shots": 16.6,
+        "Scale": 3.0,
+        "Dom": -13.19
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "CINA",
+      "time": "11:00",
+      "stars": 1,
+      "home": "Henan Jianye",
+      "away": "Wuhan Three Towns",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 15.2,
+        "INTw": 20.5,
+        "Combo": 47.9,
+        "Shots": 32.8,
+        "Scale": 5.4,
+        "Dom": -7.88
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "CINA",
+      "time": "11:35",
+      "stars": 1,
+      "home": "Chongqing Tongliang Long",
+      "away": "Chengdu Better City",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 6.3,
+        "INTw": 8.5,
+        "Combo": 19.9,
+        "Shots": 13.6,
+        "Scale": 3.0,
+        "Dom": -15.19
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "CINA",
+      "time": "12:00",
+      "stars": 2,
+      "home": "Yunnan Yukun",
+      "away": "Shandong Luneng",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 15.3,
+        "INTw": 21.4,
+        "Combo": 51.0,
+        "Shots": 35.7,
+        "Scale": 6.0,
+        "Dom": -13.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "FRA1",
+      "time": "18:00",
+      "stars": 1,
+      "home": "Auxerre",
+      "away": "Stade Brestois 29",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 14.7,
+        "INTw": 19.9,
+        "Combo": 46.7,
+        "Shots": 32,
+        "Scale": 5.1,
+        "Dom": -4.38
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "FRA1",
+      "time": "20:05",
+      "stars": 3,
+      "home": "Nice",
+      "away": "Paris Saint Germain",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 17.1,
+        "INTw": 23.0,
+        "Combo": 53.8,
+        "Shots": 36.8,
+        "Scale": 6.8,
+        "Dom": -4.5
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "FRA2",
+      "time": "13:00",
+      "stars": 2,
+      "home": "Guingamp",
+      "away": "Reims",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16,
+        "INTw": 21.3,
+        "Combo": 49.7,
+        "Shots": 33.7,
+        "Scale": 5.7,
+        "Dom": -0.81
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "LIGA",
+      "time": "13:00",
+      "stars": 3,
+      "home": "Elche",
+      "away": "Mallorca",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.6,
+        "INTw": 24.0,
+        "Combo": 55.3,
+        "Shots": 36.7,
+        "Scale": 7.0,
+        "Dom": 1.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "LIGA",
+      "time": "15:15",
+      "stars": 1,
+      "home": "Espanyol",
+      "away": "Getafe",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 15.8,
+        "INTw": 20.7,
+        "Combo": 47.8,
+        "Shots": 32,
+        "Scale": 5.2,
+        "Dom": 9.0
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "LIGA",
+      "time": "17:30",
+      "stars": 3,
+      "home": "Levante",
+      "away": "Oviedo",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 17.4,
+        "INTw": 23.0,
+        "Combo": 53.6,
+        "Shots": 36.1,
+        "Scale": 6.7,
+        "Dom": 3.25
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "LIGA",
+      "time": "17:30",
+      "stars": 3,
+      "home": "Osasuna",
+      "away": "Girona",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 17.8,
+        "INTw": 23.0,
+        "Combo": 52.9,
+        "Shots": 35.1,
+        "Scale": 6.5,
+        "Dom": -4.69
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "LIGA2",
+      "time": "13:00",
+      "stars": 2,
+      "home": "Leganes",
+      "away": "AD Ceuta FC",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 15.9,
+        "INTw": 21.4,
+        "Combo": 50.0,
+        "Shots": 34.1,
+        "Scale": 5.6,
+        "Dom": -4.44
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "LIGA2",
+      "time": "15:15",
+      "stars": 2,
+      "home": "Racing Santander",
+      "away": "Albacete",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 17,
+        "INTw": 21.8,
+        "Combo": 49.9,
+        "Shots": 32.9,
+        "Scale": 5.9,
+        "Dom": 2.88
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "LIGA2",
+      "time": "17:30",
+      "stars": 3,
+      "home": "Cadiz",
+      "away": "Malaga",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 17.6,
+        "INTw": 23.4,
+        "Combo": 54.5,
+        "Shots": 36.9,
+        "Scale": 6.5,
+        "Dom": -1.81
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "BELG2",
+      "time": "15:00",
+      "stars": 1,
+      "home": "KAA Gent II",
+      "away": "Club Brugge II",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 14.7,
+        "INTw": 20.0,
+        "Combo": 47.2,
+        "Shots": 32.5,
+        "Scale": 4.9,
+        "Dom": 0.62
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "BELG2",
+      "time": "19:00",
+      "stars": 3,
+      "home": "Lokeren-Temse",
+      "away": "RSC Anderlecht II",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 17.8,
+        "INTw": 22.7,
+        "Combo": 52.1,
+        "Shots": 34.2,
+        "Scale": 6.4,
+        "Dom": -4.75
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "BELG2",
+      "time": "19:00",
+      "stars": 3,
+      "home": "RWDM",
+      "away": "K. Lierse S.K.",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 16.6,
+        "INTw": 22.2,
+        "Combo": 52.1,
+        "Shots": 35.5,
+        "Scale": 6.0,
+        "Dom": -9.12
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "OLA1",
+      "time": "15:30",
+      "stars": 3,
+      "home": "Fortuna Sittard",
+      "away": "Twente",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 11,
+      "stats": {
+        "INT": 19.1,
+        "INTw": 25.3,
+        "Combo": 58.8,
+        "Shots": 39.6,
+        "Scale": 7.7,
+        "Dom": 1.75
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "OLA1",
+      "time": "17:45",
+      "stars": 3,
+      "home": "Sparta Rotterdam",
+      "away": "FC Volendam",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.6,
+        "INTw": 24.5,
+        "Combo": 56.9,
+        "Shots": 38.3,
+        "Scale": 7.5,
+        "Dom": -5.69
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "OLA1",
+      "time": "20:00",
+      "stars": 3,
+      "home": "PEC Zwolle",
+      "away": "NAC Breda",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.2,
+        "INTw": 23.9,
+        "Combo": 55.3,
+        "Shots": 37.1,
+        "Scale": 7.4,
+        "Dom": 1.69
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "OLA2",
+      "time": "19:00",
+      "stars": 3,
+      "home": "Waalwijk",
+      "away": "Den Bosch",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 17.9,
+        "INTw": 23.6,
+        "Combo": 54.7,
+        "Shots": 36.8,
+        "Scale": 7.0,
+        "Dom": 0.31
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "TURK2",
+      "time": "10:30",
+      "stars": 1,
+      "home": "Serik Spor",
+      "away": "Sakaryaspor",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 15.4,
+        "INTw": 20.8,
+        "Combo": 48.8,
+        "Shots": 33.4,
+        "Scale": 5.4,
+        "Dom": -1.88
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "SWI1",
+      "time": "17:00",
+      "stars": 2,
+      "home": "Servette FC",
+      "away": "Grasshoppers",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 16.9,
+        "INTw": 21.9,
+        "Combo": 50.6,
+        "Shots": 33.6,
+        "Scale": 6.2,
+        "Dom": -5.38
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "SWI1",
+      "time": "17:00",
+      "stars": 3,
+      "home": "FC Zurich",
+      "away": "FC Thun",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 11,
+      "stats": {
+        "INT": 19.7,
+        "INTw": 25.7,
+        "Combo": 59.4,
+        "Shots": 39.8,
+        "Scale": 7.9,
+        "Dom": -0.62
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "SWI1",
+      "time": "19:30",
+      "stars": 3,
+      "home": "FC Sion",
+      "away": "FC ST. Gallen",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 18.8,
+        "INTw": 24.5,
+        "Combo": 56.6,
+        "Shots": 37.8,
+        "Scale": 7.3,
+        "Dom": 0.06
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "AUSTR",
+      "time": "02:00",
+      "stars": 3,
+      "home": "Auckland",
+      "away": "Macarthur",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 7,
+      "stats": {
+        "INT": 17.4,
+        "INTw": 22.8,
+        "Combo": 52.7,
+        "Shots": 35.2,
+        "Scale": 6.2,
+        "Dom": 4.5
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "AUSTR",
+      "time": "04:00",
+      "stars": 3,
+      "home": "Brisbane Roar",
+      "away": "Wellington Phoenix",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 17.1,
+        "INTw": 22.6,
+        "Combo": 52.6,
+        "Shots": 35.6,
+        "Scale": 6.3,
+        "Dom": 0.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "AUSTR",
+      "time": "06:10",
+      "stars": 3,
+      "home": "Melbourne Victory",
+      "away": "Central Coast Mariners",
+      "picks": [
+        "Over 2.5",
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 8,
+      "stats": {
+        "INT": 17.2,
+        "INTw": 23.5,
+        "Combo": 55.5,
+        "Shots": 38.3,
+        "Scale": 7.1,
+        "Dom": 0.56
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "USA1",
+      "time": "17:00",
+      "stars": 1,
+      "home": "Toronto FC",
+      "away": "Columbus Crew",
+      "picks": [
+        "Under"
+      ],
+      "score": -5,
+      "stats": {
+        "INT": 9.2,
+        "INTw": 12.4,
+        "Combo": 29.1,
+        "Shots": 19.9,
+        "Scale": 3.0,
+        "Dom": -6.0
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "SCO1",
+      "time": "15:00",
+      "stars": 2,
+      "home": "Heart Of Midlothian",
+      "away": "Dundee",
+      "picks": [
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 5,
+      "stats": {
+        "INT": 16.6,
+        "INTw": 21.9,
+        "Combo": 51.0,
+        "Shots": 34.4,
+        "Scale": 6.0,
+        "Dom": -3.25
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "SCO1",
+      "time": "15:00",
+      "stars": 3,
+      "home": "Kilmarnock",
+      "away": "Livingston",
+      "picks": [
+        "Over 2.5",
+        "Over 1.5"
+      ],
+      "score": 10,
+      "stats": {
+        "INT": 19.4,
+        "INTw": 25.4,
+        "Combo": 58.8,
+        "Shots": 39.4,
+        "Scale": 7.8,
+        "Dom": 5.19
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "SCO1",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Motherwell",
+      "away": "Hibernian",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 15.9,
+        "INTw": 21.0,
+        "Combo": 48.7,
+        "Shots": 32.8,
+        "Scale": 5.8,
+        "Dom": -3.44
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "SCO1",
+      "time": "17:45",
+      "stars": 2,
+      "home": "Rangers",
+      "away": "Aberdeen",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 4,
+      "stats": {
+        "INT": 15.8,
+        "INTw": 21.2,
+        "Combo": 49.6,
+        "Shots": 33.9,
+        "Scale": 6.2,
+        "Dom": 7.12
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "PORT1",
+      "time": "15:30",
+      "stars": 1,
+      "home": "Famalicao",
+      "away": "Nacional",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 3,
+      "stats": {
+        "INT": 15.7,
+        "INTw": 20.8,
+        "Combo": 48.4,
+        "Shots": 32.7,
+        "Scale": 5.6,
+        "Dom": -6.31
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "PORT1",
+      "time": "18:00",
+      "stars": 2,
+      "home": "Benfica",
+      "away": "Guimaraes",
+      "picks": [
+        "BTTS",
+        "Over 1.5"
+      ],
+      "score": 5,
+      "stats": {
+        "INT": 16.2,
+        "INTw": 22.0,
+        "Combo": 51.8,
+        "Shots": 35.6,
+        "Scale": 6.1,
+        "Dom": 3.94
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "PORT2",
+      "time": "11:00",
+      "stars": 1,
+      "home": "Lusit\u00e2nia Lourosa",
+      "away": "Academico Viseu",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 3.8,
+        "INTw": 5.0,
+        "Combo": 11.8,
+        "Shots": 7.9,
+        "Scale": 3.0,
+        "Dom": -1.31
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "PORT2",
+      "time": "14:00",
+      "stars": 1,
+      "home": "Penafiel",
+      "away": "Vizela",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 2.8,
+        "INTw": 3.7,
+        "Combo": 8.5,
+        "Shots": 5.7,
+        "Scale": 3.0,
+        "Dom": -2.31
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "PORT2",
+      "time": "15:30",
+      "stars": 1,
+      "home": "Maritimo",
+      "away": "Oliveirense",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 4,
+        "INTw": 5.3,
+        "Combo": 12.5,
+        "Shots": 8.5,
+        "Scale": 3.0,
+        "Dom": -2.88
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "PORT2",
+      "time": "18:00",
+      "stars": 1,
+      "home": "Portimonense",
+      "away": "FC Porto B",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 5.1,
+        "INTw": 6.8,
+        "Combo": 15.8,
+        "Shots": 10.6,
+        "Scale": 3.0,
+        "Dom": 5.88
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "JAP1",
+      "time": "05:00",
+      "stars": 1,
+      "home": "Fagiano Okayama",
+      "away": "V-varen Nagasaki",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 15.2,
+        "INTw": 20.3,
+        "Combo": 47.3,
+        "Shots": 32.1,
+        "Scale": 4.9,
+        "Dom": -0.44
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "JAP1",
+      "time": "05:30",
+      "stars": 1,
+      "home": "Avispa Fukuoka",
+      "away": "Gamba Osaka",
+      "picks": [
+        "Under"
+      ],
+      "score": -5,
+      "stats": {
+        "INT": 9.8,
+        "INTw": 12.7,
+        "Combo": 29.4,
+        "Shots": 19.7,
+        "Scale": 3.0,
+        "Dom": 2.69
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "ARG",
+      "time": "00:00",
+      "stars": 1,
+      "home": "Banfield",
+      "away": "Tigre",
+      "picks": [
+        "Over 1.5"
+      ],
+      "score": 2,
+      "stats": {
+        "INT": 14.1,
+        "INTw": 19.5,
+        "Combo": 46.1,
+        "Shots": 32,
+        "Scale": 4.6,
+        "Dom": 9.38
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "NOR1",
+      "time": "15:00",
+      "stars": 1,
+      "home": "Start",
+      "away": "Aalesund",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 1.8,
+        "INTw": 2.6,
+        "Combo": 6.4,
+        "Shots": 4.6,
+        "Scale": 3.0,
+        "Dom": -1.69
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "NOR1",
+      "time": "16:00",
+      "stars": 1,
+      "home": "Lillestrom",
+      "away": "Kristiansund BK",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 2.6,
+        "INTw": 3.5,
+        "Combo": 8.1,
+        "Shots": 5.6,
+        "Scale": 3.0,
+        "Dom": -0.81
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "NOR1",
+      "time": "16:00",
+      "stars": 1,
+      "home": "Bodo/Glimt",
+      "away": "Ham-Kam",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 8.2,
+        "INTw": 10.1,
+        "Combo": 22.8,
+        "Shots": 14.5,
+        "Scale": 3.0,
+        "Dom": 21.38
+      },
+      "result": "",
+      "ht": ""
+    },
+    {
+      "date": "2026-03-21",
+      "league": "NOR1",
+      "time": "17:00",
+      "stars": 1,
+      "home": "Viking",
+      "away": "Molde",
+      "picks": [
+        "Under"
+      ],
+      "score": -9,
+      "stats": {
+        "INT": 3.4,
+        "INTw": 4.4,
+        "Combo": 10.2,
+        "Shots": 6.8,
+        "Scale": 3.0,
+        "Dom": -3.94
+      },
+      "result": "",
+      "ht": ""
+    }
+  ]
+}
